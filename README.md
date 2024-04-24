@@ -1,2 +1,2 @@
 # css-notes
-css tips
+یکسری نکات و توضیحات برای css
