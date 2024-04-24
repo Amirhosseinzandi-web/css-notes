@@ -2,8 +2,9 @@
 <h1>یکسری نکات و توضیحات برای css</h1>
 <hr/>
 <h3>بهترین روش gap و فاصله بین ستون ها</h3>
-
-  ```<style>
+<pre>
+  <code>
+  <style>
         body {
             overflow-x: hidden;
         }
@@ -38,7 +39,8 @@
         </div>
     </div>
 </body>
-```
+</code>
+</pre>
 
 <p>به المان مورد نظر padding میدیم و به پرنتش ، مارجین منفی</p>
 <hr/>
