@@ -2,8 +2,8 @@
 <h1>یکسری نکات و توضیحات برای css</h1>
 <hr/>
 <h3>بهترین روش gap و فاصله بین ستون ها</h3>
-```
-  <style>
+
+  ```<style>
         body {
             overflow-x: hidden;
         }
